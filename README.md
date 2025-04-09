@@ -6,7 +6,7 @@ Timezone: GMT+4
 Phone: +995 598 083 371  
 Email: zaimbeshich93@gmail.com  
 
- [Telegram](https://t.me/ZaimGagarin) · [Linkedin](www.linkedin.com/in/zaim-beshich) · [GitHub](https://github.com/ZaimBeshich/Zaim_Beshich_CV)
+ [Telegram](https://t.me/ZaimGagarin)  ·  [Linkedin](https://www.linkedin.com/in/zaim-beshich/)  ·  [GitHub](https://github.com/ZaimBeshich/Zaim_Beshich_CV)
 
 ## About
 
