@@ -10,14 +10,11 @@ Email: zaimbeshich93@gmail.com
 
 ## About
 
-   As an experienced software engineer with over 4 years of commercial experience, I excel in cross-
-platform development using React and React Native. My expertise lies in creating robust, scalable
-applications, from single-page interfaces to high-load systems.  
-   I am proficient in testing, debugging, and cross-browser development using React and TypeScript.
-My approach is business-driven, ensuring that each solution is aligned with strategic goals.  
-   I have successfully led and mentoring mobile development team, fostering collaboration and
-delivering projects on time. I thrive in collaborative environments and believe that teamwork is the
-key to innovative problem-solving and delivering exceptional results.
+With over four years of commercial experience, I have developed strong skills as a software engineer. Specialising in cross-platform development with React and React Native, I build stable and scalable applications, from single screen to high-load systems. I have participated in the full development cycle of applications, ensuring comprehensive solutions.  
+
+Competence in debugging, testing, and cross-browser development, my approach is business-driven, ensuring solutions align with strategic goals.  
+
+I have successfully worked mobile development teams of various sizes, ranging from 4 to 40 members, focusing on collaboration and timely project delivery. Additionally, I have led and mentored colleagues, helping them grow and improve their skills. Thriving in team environments, I believe teamwork is key to innovative problem-solving and achieving exceptional results.
 
 
 ## Skills
